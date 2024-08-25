@@ -6,10 +6,10 @@
 	<img alt="Static Badge" src="https://img.shields.io/badge/keras-white?logo=keras&logoColor=darkred">
 </div>
 <br>
-<div align=center>
+<!-- <div align=center>
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyebeen&layout=compact&theme=dracula">
 	<img src="https://github-readme-stats.vercel.app/api?username=yebeen">
-</div>
+</div> -->
 
 
 <!--
